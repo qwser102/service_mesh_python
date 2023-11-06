@@ -1,0 +1,5 @@
+# --- coding: utf-8 ---
+import os
+
+host = os.getenv("HOST_PROVIDER")
+# host = "127.0.0.1"
